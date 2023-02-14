@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Casfid Test</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="user_list">Lista de usuarios</string>
+    <string name="user_detail">Detalles del usuario</string>
+    <string name="nuevo_contacto">Nuevo contacto</string>
+    <string name="add_new_contact">Agregar nuevo contacto</string>
+    <string name="street">Calle</string>
+    <string name="city">Ciudad</string>
+    <string name="state">Estado</string>
+    <string name="country">País</string>
+</resources>
